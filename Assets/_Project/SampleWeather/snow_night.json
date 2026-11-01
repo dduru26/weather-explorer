@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -21.9426,
+    "lat": 64.1466
+  },
+  "weather": [
+    {
+      "id": 602,
+      "main": "Snow",
+      "description": "heavy snow",
+      "icon": "13n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": -3.1,
+    "feels_like": -4.4,
+    "temp_min": -4.1,
+    "temp_max": -2.0,
+    "pressure": 1012,
+    "humidity": 90
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 9.8,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1793656800,
+  "sys": {
+    "country": "IS",
+    "sunrise": 1793611440,
+    "sunset": 1793638439
+  },
+  "timezone": 0,
+  "id": 0,
+  "name": "Reykjavik",
+  "cod": 200,
+  "snow": {
+    "1h": 1.8
+  }
+}

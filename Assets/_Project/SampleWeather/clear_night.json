@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": 30.0619,
+    "lat": -1.9441
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 17.2,
+    "feels_like": 15.9,
+    "temp_min": 16.2,
+    "temp_max": 18.3,
+    "pressure": 1012,
+    "humidity": 82
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.5,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 5
+  },
+  "dt": 1793649600,
+  "sys": {
+    "country": "RW",
+    "sunrise": 1793591640,
+    "sunset": 1793635560
+  },
+  "timezone": 7200,
+  "id": 0,
+  "name": "Kigali",
+  "cod": 200
+}

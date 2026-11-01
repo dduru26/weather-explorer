@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": -122.4194,
+    "lat": 37.7749
+  },
+  "weather": [
+    {
+      "id": 741,
+      "main": "Fog",
+      "description": "fog",
+      "icon": "50d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.6,
+    "feels_like": 10.3,
+    "temp_min": 10.6,
+    "temp_max": 12.7,
+    "pressure": 1012,
+    "humidity": 97
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.0,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1793642400,
+  "sys": {
+    "country": "US",
+    "sunrise": 1793630160,
+    "sunset": 1793667960
+  },
+  "timezone": -28800,
+  "id": 0,
+  "name": "San Francisco",
+  "cod": 200
+}
